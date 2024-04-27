@@ -24,6 +24,11 @@ public class ArrayListFor {
         System.out.println(list);
         System.out.println("재밌다. 의 Index = " + funIndex);
 
+
+
+
+
+
     }
 
 }
